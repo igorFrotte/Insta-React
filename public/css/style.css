@@ -310,6 +310,14 @@ body {
   display: none !important;
 }
 
+#red {
+  color: red;
+}
+
+#black {
+  color: black;
+}
+
 @media (max-width: 935px) {
   .sidebar {
     display: none;
